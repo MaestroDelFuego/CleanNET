@@ -1,0 +1,26 @@
+# Ad networks
+doubleclick.net
+googleadservices.com
+googlesyndication.com
+googletagservices.com
+adsafeprotected.com
+ads-twitter.com
+ads.yahoo.com
+adservice.google.com
+facebookads.com
+moatads.com
+zedo.com
+scorecardresearch.com
+quantserve.com
+rubiconproject.com
+openx.net
+criteo.com
+casalemedia.com
+yieldmo.com
+pubmatic.com
+appsflyer.com
+branch.io
+ml314.com
+adnxs.com
+taboola.com
+outbrain.com

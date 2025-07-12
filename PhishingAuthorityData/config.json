@@ -1,0 +1,19 @@
+{
+    "enableAPI": true,
+    "useWhitelist": true,
+    "useSuspiciousDomains": true,
+    "useSuspiciousKeywords": true,
+    "useBlockedDomains": true,
+    "useDNSResolve": false,
+    "useDomainAgeCheck": false,
+    "useDnsProviderCheck": true,
+    "useEncodedCharsCheck": false,
+    "useMetaData": false,
+    "riskWeights": {
+        "http": 40,
+        "notWhitelisted": 20,
+        "suspiciousKeyword": 30,
+        "suspiciousDomain": 30,
+        "blockedDomain": 100
+    }
+}
